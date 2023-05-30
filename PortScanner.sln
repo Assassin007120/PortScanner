@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PortScanner", "PortScanner\PortScanner.pyproj", "{F512B5F6-5E5C-4035-B06F-5B46FB612DA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F512B5F6-5E5C-4035-B06F-5B46FB612DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F512B5F6-5E5C-4035-B06F-5B46FB612DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63ECBDAA-DEC6-4E61-AC87-75F09B5420FD}
+	EndGlobalSection
+EndGlobal
